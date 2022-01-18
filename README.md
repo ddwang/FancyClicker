@@ -4,7 +4,7 @@ A very simple auto clicker for windows.
 
 ![FancyClicker Screenshot](https://github.com/ddwang/FancyClicker/blob/main/docs/screen0.png?raw=true)
 
-When activated, this clicker will attempt to click at <strong>40 clicks-per-second (CPS)</strong> continuously.
+When activated, this clicker will attempt to generate left mouse button clicks at <strong>40 clicks-per-second (CPS)</strong> continuously. The actual number of registered clicks will be dependant the receiving application and can vary from one computer to another.
 
 ![FancyClicker CPS Demo 2](https://github.com/ddwang/FancyClicker/blob/main/docs/cps-demo2.gif?raw=true)
 
