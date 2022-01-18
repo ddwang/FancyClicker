@@ -2,9 +2,13 @@
 
 A very simple auto clicker for windows.
 
-![Fancy Clicker Screenshot](https://github.com/ddwang/FancyClicker/blob/main/docs/screen0.png?raw=true)
+![FancyClicker Screenshot](https://github.com/ddwang/FancyClicker/blob/main/docs/screen0.png?raw=true)
 
 When activated, this clicker will attempt to click at <strong>40 clicks-per-second (CPS)</strong> continuously.
+
+![FancyClicker CPS Demo 2](https://github.com/ddwang/FancyClicker/blob/main/docs/cps-demo2.gif?raw=true)
+
+<img src="https://github.com/ddwang/FancyClicker/blob/main/docs/cps-demo1.gif?raw=true" width="240" />
 
 ## Download
 
