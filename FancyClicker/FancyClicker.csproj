@@ -6,6 +6,7 @@
 		<Nullable>enable</Nullable>
 		<UseWPF>true</UseWPF>
 		<LangVersion>8.0</LangVersion>
+		<ApplicationIcon>click.ico</ApplicationIcon>
 	</PropertyGroup>
 
 	<ItemGroup>
